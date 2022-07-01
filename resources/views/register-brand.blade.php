@@ -11,7 +11,6 @@
     <div class="row">
         <div class="col-12 col-lg-10">
 
-            <!--end card-->
             <div class="card mt-5">
                 <div class="card-body">
                     <h2 class="mb-4">Realiza el registro de tu marca con Jelou</h2>
