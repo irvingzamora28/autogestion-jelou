@@ -10,15 +10,11 @@ File: App Css
 @import "../plugins/bootstrap/variables";
 @import "variables";
 @import "../plugins/bootstrap/mixins";
-
-
 // Structure
 @import "structure/topbar";
 @import "structure/footer";
 @import "structure/leftbar";
 @import "structure/horizontal-nav";
-
-
 // Components
 @import "components/reboot";
 @import "components/waves";
@@ -38,11 +34,6 @@ File: App Css
 @import "components/form-editor";
 @import "components/nav";
 @import "components/spinners";
-
-
-
-
-
 // Plugins
 @import "plugins/custom-scrollbar";
 @import "plugins/charts";
@@ -52,8 +43,6 @@ File: App Css
 @import "plugins/maps";
 @import "plugins/calendar";
 @import "plugins/dragula";
-
-
 // Pages
 @import "pages/general";
 @import "pages/background-color";
@@ -70,3 +59,23 @@ File: App Css
 @import "pages/crypto";
 @import "pages/projects";
 @import "pages/account-pages";
+// Override styles
+body.dark-sidebar .left-sidebar,
+body.dark-sidebar .left-sidebar .brand {
+    background-color: $jelou;
+}
+
+body.dark-sidebar .left-sidebar .menu-body .nav-item .nav-link .menu-icon,
+body.dark-sidebar .left-sidebar .menu-body .nav-item .nav-link {
+    color: $gray-200;
+    font-weight: 300;
+}
+
+.left-sidebar .brand .logo .logo-lg {
+    height: 50px;
+}
+
+.nav-link .active {
+    color: #FFF;
+    font-weight: 800;
+}

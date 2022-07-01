@@ -3,9 +3,9 @@
 
 
 
-// 
+//
 // Custom Variables
-// 
+//
 
 //Background Colors
 $brand-light-bg:            #ffffff;
@@ -56,9 +56,9 @@ $sidebar-tab-bg:                      #f5f5f9;
 $header-height:                                    60px;
 $header-shadow-color:                            #d6e4f1;
 $header-search-color:                            #696c71;
-$header-search-bg   :                            #f5f5f9; 
+$header-search-bg   :                            #f5f5f9;
 $header-search-dark-color:                       #c2cbe2;
-$header-search-dark-bg   :                       #343c50; 
+$header-search-dark-bg   :                       #343c50;
 $header-icon-color:                              #384a65;
 $header-icon-dark-color:                         #abb4c7;
 $header-icon-bg:                                 #f5f5f9;
@@ -75,7 +75,7 @@ $header-shadow:                                   none;
 // Horizontal
 $navbar-icon-color:             #1f2538;
 $navbar-icon-dark-color:        #566587;
-$submenu-bg:                    #fdfeff; 
+$submenu-bg:                    #fdfeff;
 $submenu-border-color:          #d8dee6;
 $mobile-menu-item-color:        #1f2538;
 $header-item-active-color:      #557ef8;
@@ -112,21 +112,21 @@ $card-radius:                 .25rem;
   $drop-shadow-map:               drop-shadow(0px 8px 4px rgba($gray-400, .7));
   $drop-shadow-color:               #d6e4f1;
   $card-shadow:                      0 0 0.875rem 0 rgba($gray-800, 0.05);
-  
-  
 
-  
-  
+
+
+
+
   // General
   $header-title:              #303e67;
-  $leftbar-box-shadow:        0 8px 8px 0 rgba(31, 30, 47, 0.06); 
-  $topbar-box-shadow:         6px 0px 6px rgba(31, 30, 47, 0.06); 
+  $leftbar-box-shadow:        0 8px 8px 0 rgba(31, 30, 47, 0.06);
+  $topbar-box-shadow:         6px 0px 6px rgba(31, 30, 47, 0.06);
   $modal-body-bg:                      #ffffff;
   $icon-dual-color:                    #a1acb8;
 
-  
 
-  
+
+
 
 
   //Font variables
@@ -141,13 +141,13 @@ $card-radius:                 .25rem;
   $sidenav-icon-color:           #a3afd4;
   $main-menu-active-bg:  #f5f5fb;
 
-  
 
 
-  
 
 
-  
+
+
+
 
 
 // Prittify-code
@@ -201,12 +201,14 @@ $yellow:  #ff9f43;
 $green:   #22b783;
 $teal:    #2ddab5;
 $cyan:    #41cbd8;
+$jelou:   #EE750F;
 
 
 // scss-docs-start colors-map
 $colors: (
   "blue":       $blue,
   "indigo":     $indigo,
+  "jelou":     $jelou,
   "purple":     $purple,
   "pink":       $pink,
   "red":        $red,
@@ -221,7 +223,7 @@ $colors: (
 );
 // scss-docs-end colors-map
 
-$primary:       $indigo;
+$primary:       $jelou;
 $secondary:     $gray-600;
 $success:       $green;
 $info:          $cyan;
