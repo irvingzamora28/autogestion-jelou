@@ -28,40 +28,24 @@
                 <!-- Navigation -->
                 <ul class="navbar-nav tab-pane active" id="Main" role="tabpanel">
                     <li class="nav-item">
-                        <a class="nav-link" href="index"><i class="ti ti-home menu-icon"></i><span>Home</span></a>
+                        <a class="nav-link" href="register-brand"><i class="ti ti-home menu-icon"></i><span>Home</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#"><i
-                                class="ti ti-message menu-icon"></i><span>Mensajeria</span></a>
+                                class="ti ti-message menu-icon"></i><span>Mis datos</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="ti ti-basket menu-icon"></i><span>
-                                Productos
-                            </span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="ti ti-movie menu-icon"></i><span>
-                                Cursos
-                            </span></a>
+                        <a class="nav-link" href="#"><i
+                                class="ti ti-message menu-icon"></i><span>Marca</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#"><i class="ti ti-currency-dollar menu-icon"></i><span>
-                                Metodo de pago
-                            </span></a>
+                            Método de pago
+                        </span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="ti ti-receipt-2 menu-icon"></i><span>
-                                Metodo de cobro
-                            </span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="ti ti-home menu-icon"></i><span>
-                                Registro de suscripcion
-                            </span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="ti ti-code menu-icon"></i><span>
-                                Desarrollo (Integracion API)
+                        <a class="nav-link" href="#"><i class="ti ti-movie menu-icon"></i><span>
+                                Indicadores
                             </span></a>
                     </li>
                     <!--end nav-item-->

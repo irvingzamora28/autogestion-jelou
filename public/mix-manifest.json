@@ -33,8 +33,6 @@
     "/assets/pages/projects-task.init.js": "/assets/pages/projects-task.init.js",
     "/assets/pages/datatable.init.js": "/assets/pages/datatable.init.js",
     "/assets/pages/editable.init.js": "/assets/pages/editable.init.js",
-    "/assets/css/app.css": "/assets/css/app.css",
-    "/assets/css/bootstrap.css": "/assets/css/bootstrap.css",
     "/assets/css/icons.css": "/assets/css/icons.css",
     "/assets/plugins/hopscotch/img/sprite-green.png": "/assets/plugins/hopscotch/img/sprite-green.png",
     "/assets/plugins/hopscotch/img/sprite-orange.png": "/assets/plugins/hopscotch/img/sprite-orange.png",
@@ -258,5 +256,7 @@
     "/assets/plugins/tree/listree.min.css": "/assets/plugins/tree/listree.min.css",
     "/assets/plugins/tree/listree.umd.min.js": "/assets/plugins/tree/listree.umd.min.js",
     "/assets/plugins/tabulator/bootstrap/tabulator_bootstrap4.css": "/assets/plugins/tabulator/bootstrap/tabulator_bootstrap4.css",
-    "/assets/plugins/tabulator/tabulator.min.js": "/assets/plugins/tabulator/tabulator.min.js"
+    "/assets/plugins/tabulator/tabulator.min.js": "/assets/plugins/tabulator/tabulator.min.js",
+    "/assets/css/app.css": "/assets/css/app.css",
+    "/assets/css/bootstrap.css": "/assets/css/bootstrap.css"
 }

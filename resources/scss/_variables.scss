@@ -202,6 +202,7 @@ $green:   #22b783;
 $teal:    #2ddab5;
 $cyan:    #41cbd8;
 $jelou:   #EE750F;
+$jelou-blue: #3B9ED8;
 
 
 // scss-docs-start colors-map
@@ -209,6 +210,7 @@ $colors: (
   "blue":       $blue,
   "indigo":     $indigo,
   "jelou":     $jelou,
+  "jelou-secondary":     $jelou-blue,
   "purple":     $purple,
   "pink":       $pink,
   "red":        $red,
@@ -225,6 +227,7 @@ $colors: (
 
 $primary:       $jelou;
 $secondary:     $gray-600;
+$jelou-secondary:       $jelou-blue;
 $success:       $green;
 $info:          $cyan;
 $warning:       $yellow;
@@ -240,6 +243,7 @@ $blue:          $blue;
 $theme-colors: (
   "primary":    $primary,
   "secondary":  $secondary,
+  "jelou-secondary":  $jelou-secondary,
   "success":    $success,
   "info":       $info,
   "warning":    $warning,
