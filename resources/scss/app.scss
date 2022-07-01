@@ -79,3 +79,25 @@ body.dark-sidebar .left-sidebar .menu-body .nav-item .nav-link {
     color: #FFF;
     font-weight: 800;
 }
+
+@media (max-width: 1023.98px) {
+    .left-sidebar {
+        top: 0px;
+        overflow-y: hidden;
+    }
+    .navbar-custom {
+        margin-left: 260px;
+    }
+    .enlarge-menu .page-content-tab {
+        width: calc(100% - 60px);
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .page-wrapper .page-content-tab {
+        width: calc(100% - 260px);
+    }
+    .enlarge-menu .page-content-tab {
+        width: calc(100% - 60px);
+    }
+}
