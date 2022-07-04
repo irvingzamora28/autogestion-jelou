@@ -37,7 +37,7 @@
                                             placeholder="Cargo">
                                     </div>
 
-                                    <button type="submit" class="btn btn-jelou-secondary float-end">Continuar</button>
+                                    <a href="register-brand-brand-data" class="btn btn-jelou-secondary float-end">Continuar</a>
                                 </form>
                             </div>
                             <div class="col-2"></div>

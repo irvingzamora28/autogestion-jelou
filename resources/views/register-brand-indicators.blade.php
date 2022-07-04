@@ -96,7 +96,7 @@
                                         </div>
                                     </div>
 
-                                    <button type="submit" class="btn btn-jelou-secondary float-end">Guardar y Continuar</button>
+                                    <a href="register-brand-finish" class="btn btn-jelou-secondary float-end">Guardar y Continuar</a>
                                 </form>
                             </div>
                             <div class="col-2"></div>

@@ -122,7 +122,7 @@
                                         <input type="text" class="form-control" name="brand_contact_tech_email" id="brand_contact_tech_email" placeholder="Correo">
                                     </div>
                                 </div>
-                                <button type="submit" class="btn btn-jelou-secondary float-end">Guardar y Continuar</button>
+                                <a href="register-brand-payment-method" class="btn btn-jelou-secondary float-end">Guardar y Continuar</a>
                             </form>
                         </div>
                         <div class="col-2"></div>

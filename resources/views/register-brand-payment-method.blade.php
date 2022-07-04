@@ -49,7 +49,7 @@
                                                     <input type="text" class="form-control" name="brand_card_cvv" id="brand_card_cvv" placeholder="CVV/CSC">
                                                 </div>
                                             </div>
-                                            <button type="submit" class="btn btn-jelou-secondary float-end">Guardar y Continuar</button>
+                                            <a href="register-brand-indicators" class="btn btn-jelou-secondary float-end">Guardar y Continuar</a>
                                         </form>
                                     </div>
                                 </div>

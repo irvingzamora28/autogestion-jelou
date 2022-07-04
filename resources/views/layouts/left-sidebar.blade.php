@@ -31,20 +31,20 @@
                         <a class="nav-link" href="register-brand"><i class="ti ti-home menu-icon"></i><span>Home</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="register-brand-personal-data"><i
+                        <a class="nav-link pe-auto" href="#"><i
                                 class="ti ti-message menu-icon"></i><span>Mis datos</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="register-brand-brand-data"><i
+                        <a class="nav-link pe-auto" href="#"><i
                                 class="ti ti-message menu-icon"></i><span>Marca</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="register-brand-payment-method"><i class="ti ti-currency-dollar menu-icon"></i><span>
+                        <a class="nav-link pe-auto" href="#"><i class="ti ti-currency-dollar menu-icon"></i><span>
                             Método de pago
                         </span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="register-brand-indicators"><i class="ti ti-movie menu-icon"></i><span>
+                        <a class="nav-link pe-auto" href="#"><i class="ti ti-movie menu-icon"></i><span>
                                 Indicadores
                             </span></a>
                     </li>

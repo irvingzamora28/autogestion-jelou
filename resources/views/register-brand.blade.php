@@ -20,7 +20,7 @@
                                 Podrás ver en una ventana tu avance en el proceso para la configuración de tu marca.</p>
                         </div>
                         <div class="col-6">
-                            <button type="button" class="btn btn-jelou-secondary w-25">Iniciar Registro</button>
+                            <a href="register-brand-personal-data" class="btn btn-jelou-secondary w-25">Iniciar Registro</a>
                         </div>
                     </div>
                     <!--end /div-->
