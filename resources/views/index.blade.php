@@ -38,16 +38,17 @@
                         <div class="card-body">
                             <div class="row d-flex">
                                 <div class="col-3">
-                                    <i class="ti ti-users font-36 align-self-center text-dark"></i>
+                                    <i class="ti ti-users font-36 align-self-center text-warning"></i>
+                                </div>
+                                <div class="col-9 px-2 text-warning fs-4 text-center">
+                                    Mis datos personales
                                 </div>
                                 <!--end col-->
                                 <div class="col-12 ms-auto align-self-center">
-                                    <div id="dash_spark_1" class="mb-3"></div>
+                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. At distinctio cum vitae assumenda expedita velit ipsum quaerat odio illo alias, sint, dolore voluptas incidunt id.
                                 </div>
                                 <!--end col-->
                                 <div class="col-12 ms-auto align-self-center">
-                                    <h3 class="text-dark my-0 font-22 fw-bold">24000</h3>
-                                    <p class="text-muted mb-0 fw-semibold">Sessions</p>
                                 </div>
                                 <!--end col-->
                             </div>
