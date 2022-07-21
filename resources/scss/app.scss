@@ -59,6 +59,18 @@ File: App Css
 @import "pages/crypto";
 @import "pages/projects";
 @import "pages/account-pages";
+
+/*** Index ***/
+
+#img_header_welcome_index {
+    top: 14px;
+    position: relative;
+    z-index: 10;
+}
+
+
+/*** Index ***/
+
 // Override styles
 body.dark-sidebar .left-sidebar,
 body.dark-sidebar .left-sidebar .brand {

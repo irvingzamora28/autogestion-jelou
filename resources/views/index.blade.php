@@ -10,6 +10,24 @@
     @endcomponent
     @endsection
     <!--end page title-->
+    <div class="row">
+
+        <div class="col-lg-6 order-md-1 order-sm-1">
+            <img src="{{URL::asset('assets/images/inicio_bienvenida.svg')}}" alt="Inicio Jelou Business" height="140" id="img_header_welcome_index">
+        </div>
+        <div class="col-lg-6 order-md-1 order-sm-1 align-self-md-center">
+            <h1 class="text-end text-primary">Jelou Business</h1>
+        </div>
+        <div class="col-lg-12 order-md-1 order-sm-1">
+            <div class="row justify-content-center">
+                <div class="card overflow-hidden">
+                    <div class="card-body text-secondary">
+                        Bienvenido a Jelou Business, acá podrás registrar, revisar y completar toda la configuración en relación a marca. A continuación te explicaremos cada uno de los ítems.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="row">
         <div class="col-lg-12 order-md-1 order-sm-1">
@@ -19,7 +37,7 @@
                         <div class="card-body">
                             <div class="row d-flex">
                                 <div class="col-3">
-                                    <img src="{{URL::asset('assets/images/inicio_mis_datos.png')}}" alt="Inicio Mis datos personales" height="26" alt="" class="mr-1">
+                                    <img src="{{URL::asset('assets/images/inicio_mis_datos.png')}}" alt="Inicio Mis datos personales" height="26" class="mr-1">
                                 </div>
                                 <div class="col-9 px-2 text-warning fs-4 text-center">
                                     Mis datos personales
@@ -45,7 +63,7 @@
                         <div class="card-body">
                             <div class="row d-flex">
                                 <div class="col-3">
-                                    <img src="{{URL::asset('assets/images/inicio_mi_marca.png')}}" alt="Inicio Mi Marca" height="26" alt="" class="mr-1">
+                                    <img src="{{URL::asset('assets/images/inicio_mi_marca.png')}}" alt="Inicio Mi Marca" height="26" class="mr-1">
                                 </div>
                                 <div class="col-9 px-2 text-warning fs-4 text-center">
                                     Mi Marca
@@ -71,7 +89,7 @@
                         <div class="card-body">
                             <div class="row d-flex">
                                 <div class="col-3">
-                                    <img src="{{URL::asset('assets/images/inicio_metodo_pago.png')}}" alt="Inicio Método de pago" height="26" alt="" class="mr-1">
+                                    <img src="{{URL::asset('assets/images/inicio_metodo_pago.png')}}" alt="Inicio Método de pago" height="26" class="mr-1">
                                 </div>
                                 <div class="col-9 px-2 text-warning fs-4 text-center">
                                     Método de pago
@@ -98,7 +116,7 @@
                         <div class="card-body">
                             <div class="row d-flex">
                                 <div class="col-3">
-                                    <img src="{{URL::asset('assets/images/inicio_integracion_whatsapp.png')}}" alt="Inicio Integración Whatsapp" height="26" alt="" class="mr-1">
+                                    <img src="{{URL::asset('assets/images/inicio_integracion_whatsapp.png')}}" alt="Inicio Integración Whatsapp" height="26" class="mr-1">
                                 </div>
                                 <div class="col-9 px-2 text-warning fs-4 text-center">
                                     Integración Whatsapp
@@ -155,7 +173,7 @@
                         <div class="card-body">
                             <div class="row d-flex">
                                 <div class="col-3">
-                                    <img src="{{URL::asset('assets/images/inicio_productos.png')}}" alt="Inicio Productos o Servicios" height="26" alt="" class="mr-1">
+                                    <img src="{{URL::asset('assets/images/inicio_productos.png')}}" alt="Inicio Productos o Servicios" height="26" class="mr-1">
                                 </div>
                                 <div class="col-9 px-2 text-warning fs-4 text-center">
                                     Productos o Servicios
@@ -181,7 +199,7 @@
                         <div class="card-body">
                             <div class="row d-flex">
                                 <div class="col-3">
-                                    <img src="{{URL::asset('assets/images/inicio_integracion.png')}}" alt="Inicio Integración" height="26" alt="" class="mr-1">
+                                    <img src="{{URL::asset('assets/images/inicio_integracion.png')}}" alt="Inicio Integración" height="26" class="mr-1">
                                 </div>
                                 <div class="col-9 px-2 text-warning fs-4 text-center">
                                     Integración
@@ -208,7 +226,7 @@
                         <div class="card-body">
                             <div class="row d-flex">
                                 <div class="col-3">
-                                    <img src="{{URL::asset('assets/images/inicio_modulos_cursos.png')}}" alt="Inicio Módulos de Curso" height="26" alt="" class="mr-1">
+                                    <img src="{{URL::asset('assets/images/inicio_modulos_cursos.png')}}" alt="Inicio Módulos de Curso" height="26" class="mr-1">
                                 </div>
                                 <div class="col-9 px-2 text-warning fs-4 text-center">
                                     Módulos de Curso
@@ -291,7 +309,7 @@
                         <div class="card-body">
                             <div class="row d-flex">
                                 <div class="col-3">
-                                    <img src="{{URL::asset('assets/images/inicio_verificacion_url.png')}}" alt="Inicio Verificación URL" height="26" alt="" class="mr-1">
+                                    <img src="{{URL::asset('assets/images/inicio_verificacion_url.png')}}" alt="Inicio Verificación URL" height="26" class="mr-1">
                                 </div>
                                 <div class="col-9 px-2 text-warning fs-4 text-center">
                                     Verificación URL
